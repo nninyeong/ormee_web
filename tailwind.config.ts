@@ -62,6 +62,160 @@ const config: Config = {
       fontFamily: {
         pretendard: ['var(--font-pretendard)'],
       },
+      fontSize: {
+        display1: [
+          '56px',
+          {
+            lineHeight: '140%',
+            fontWeight: '700',
+            letterSpacing: '-0.02em',
+          },
+        ],
+        display2: [
+          '40px',
+          {
+            lineHeight: '140%',
+            fontWeight: '700',
+            letterSpacing: '-0.02em',
+          },
+        ],
+        title1: [
+          '28px',
+          {
+            lineHeight: '140%',
+            fontWeight: '700',
+            letterSpacing: '-0.02em',
+          },
+        ],
+        title2: [
+          '26px',
+          {
+            lineHeight: '140%',
+            fontWeight: '700',
+            letterSpacing: '-0.02em',
+          },
+        ],
+        title3: [
+          '24px',
+          {
+            lineHeight: '140%',
+            fontWeight: '700',
+            letterSpacing: '-0.02em',
+          },
+        ],
+        heading1: [
+          '22px',
+          {
+            lineHeight: '140%',
+            fontWeight: '700',
+            letterSpacing: '-0.02em',
+          },
+        ],
+        heading2: [
+          '20px',
+          {
+            lineHeight: '140%',
+            fontWeight: '700',
+            letterSpacing: '-0.02em',
+          },
+        ],
+        headline1: [
+          '18px',
+          {
+            lineHeight: '140%',
+            fontWeight: '700',
+            letterSpacing: '-0.02em',
+          },
+        ],
+        headline2: [
+          '16px',
+          {
+            lineHeight: '140%',
+            fontWeight: '700',
+            letterSpacing: '-0.02em',
+          },
+        ],
+        'body-reading': [
+          '18px',
+          {
+            lineHeight: '155%',
+            fontWeight: '400',
+            letterSpacing: '-0.02em',
+          },
+        ],
+        'body1-normal': [
+          '16px',
+          {
+            lineHeight: '140%',
+            fontWeight: '400',
+            letterSpacing: '-0.02em',
+          },
+        ],
+        'body1-reading': [
+          '16px',
+          {
+            lineHeight: '155%',
+            fontWeight: '400',
+            letterSpacing: '-0.02em',
+          },
+        ],
+        'body2-normal': [
+          '14px',
+          {
+            lineHeight: '140%',
+            fontWeight: '400',
+            letterSpacing: '-0.02em',
+          },
+        ],
+        'body2-reading': [
+          '14px',
+          {
+            lineHeight: '150%',
+            fontWeight: '400',
+            letterSpacing: '-0.02em',
+          },
+        ],
+        label: [
+          '14px',
+          {
+            lineHeight: '140%',
+            fontWeight: '500',
+            letterSpacing: '-0.02em',
+          },
+        ],
+        'label2-normal': [
+          '12px',
+          {
+            lineHeight: '140%',
+            fontWeight: '500',
+            letterSpacing: '-0.02em',
+          },
+        ],
+        'label2-reading': [
+          '12px',
+          {
+            lineHeight: '140%',
+            fontWeight: '400',
+            letterSpacing: '-0.02em',
+          },
+        ],
+        caption1: [
+          '11px',
+          {
+            lineHeight: '140%',
+            fontWeight: '400',
+            letterSpacing: '-0.02em',
+          },
+        ],
+        caption2: [
+          '10px',
+          {
+            lineHeight: '140%',
+            fontWeight: '400',
+            letterSpacing: '-0.02em',
+          },
+        ],
+      },
     },
   },
   plugins: [],
